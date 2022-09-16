@@ -43,8 +43,8 @@ EXPOSE 8118
 EXPOSE 58846
 
 # expose port for deluge incoming port (used only if VPN_ENABLED=no)
-EXPOSE 58946
-EXPOSE 58946/udp
+EXPOSE 55115
+EXPOSE 55115/udp
 
 # set permissions
 #################
